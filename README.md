@@ -1,6 +1,4 @@
 # curvature_test
-
-![Aaron Swartz](https://github.com/WTYatzoo/WTYatzoo.github.io/raw/master/gallery/curvature_ground_truth_vs_discrete_op_on_torus.png)
 <img src="https://github.com/WTYatzoo/WTYatzoo.github.io/raw/master/gallery/curvature_ground_truth_vs_discrete_op_on_torus.png" style="width:170px;border:0" />
 
 The corresponding figure in gallery shows the mean curvature,gauss curvature 
