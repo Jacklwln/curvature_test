@@ -1,5 +1,5 @@
 # curvature_test
-<img src="https://github.com/WTYatzoo/WTYatzoo.github.io/raw/master/gallery/curvature_ground_truth_vs_discrete_op_on_torus.png" style="width:100" />
+<img src="https://github.com/WTYatzoo/WTYatzoo.github.io/raw/master/gallery/curvature_ground_truth_vs_discrete_op_on_torus.png" width="100" />
 
 The corresponding figure in gallery shows the mean curvature,gauss curvature 
 and maximum curvature's groundtruth of torus in 1st line and the discrete 
