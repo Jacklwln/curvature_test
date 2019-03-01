@@ -7,5 +7,5 @@ computing value in 2nd row.
 
 This is junior graduate student training based on the paper Discrete Differential-Geometry Operators 
 for Triangulated 2-Manifolds, knowing the cotangent form curvature operator 
-and practice of halfedge structure, mesh curvature mea- sure and mesh smoothing
+and practice of halfedge structure, mesh curvature measure and mesh smoothing
 based on the mean curvature flow.
